@@ -50,11 +50,11 @@
 
 <h1>ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22"></h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitsarkar76&show_icons=true&locale=en&layout=compact" alt="amitsarkar76" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BRANDED-THUNDER&show_icons=true&locale=en&layout=compact" alt="BRANDED-THUNDER" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitsarkar76&show_icons=true&locale=en" alt="amitsarkar76" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BRANDED-THUNDER&show_icons=true&locale=en" alt="BRANDED-THUNDER" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitsarkar76&" alt="amitsarkar76" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BRANDED-THUNDER&" alt="BRANDED-THUNDER" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://t.me/BUY_MEE_A_COFFEE"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt=" https://t.me/BUY_MEE_A_COFFEE" /></a></p><br><br>
